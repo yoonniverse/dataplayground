@@ -31,7 +31,7 @@ feature_row4:
   - image_path: assets/images/machine-learning.png
     alt: "coursera machine learning"
     title: "4월: Machine Learning"
-    excerpt: "MOOC 플랫폼 중 하나인 Coursera에서 딥러닝의 세계적 석좌인, 스탠포드 대학의 Andrew Ng 교수의 'Machine Learning' 강좌 수강. 머신러닝에 관해서 가장 잘 설명한 것으로 정평이 난 스탠포드 강의의 온라인 버전임. 다음과 같은 내용을 배움."
+    excerpt: "MOOC 플랫폼 중 하나인 Coursera에서 딥러닝의 세계적 석좌인, Andrew Ng 스탠포드 대학 교수의 'Machine Learning' 강좌 수강. 머신러닝에 관해서 가장 잘 설명한 것으로 정평이 난 스탠포드 강의의 온라인 버전임. 다음과 같은 내용을 배움."
     url: "https://www.coursera.org/account/accomplishments/specialization/certificate/9HD4TD9Y84HY"
     btn_label: "더 알아보기"
     btn_class: "btn--primary"
