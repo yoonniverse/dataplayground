@@ -56,10 +56,12 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
+
         <!-- LikeBtn.com BEGIN -->
-        <span class="likebtn-wrapper" data-theme="custom" data-btn_size="35" data-f_size="18" data-icon_size="20" data-rich_snippet="true"></span>
+        <span class="likebtn-wrapper" data-theme="custom" data-btn_size="35" data-f_size="18" data-icon_size="20" data-rich_snippet="true" style="float: right"></span>
         <script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
         <!-- LikeBtn.com END -->
+
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
