@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
-title                    : "데이터 놀이"
+locale                   : "en"
+title                    : "PlayData"
 title_separator          : "-"
-name                     : "하랑"
-description              : "데이터 과학과 머신러닝에 관심이 있는 경제학부 대학생의 기록"
+name                     : "Harang"
+description              : "A Korean Economics college student's playground for data science."
 url                      : "https://harangdev.github.io"
 baseurl                  : "/datascience"
 repository               : "HarangDev/datascience"
@@ -100,10 +100,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "하랑"
+  name             : "Harang"
   avatar           : "/assets/images/profile.png"
-  bio              : "데이터 과학 공부하는 경제학부 대학생입니다."
-  location         : "서울"
+  bio              : "Korean student who studies Economics at college, and who is interested in data scince and machine learning"
+  location         : "Seoul, Korea"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
