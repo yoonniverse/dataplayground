@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "DataPlayground"
+title                    : "Data PlayGround"
 title_separator          : "-"
 name                     : "Harang"
 description              : "A Korean Economics college student's playground for data science."

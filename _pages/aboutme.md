@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/header2.jpeg
   caption: "[Photo by Felix Mittermeier from Pexels](https://www.pexels.com/photo/blue-and-purple-cosmic-sky-956999/)"
-excerpt: "Hello, I'm Korean student who studies Economics at college who is interested in data science and machine learning."
+excerpt: "I'm majoring Economics at Seoul National University in Korea. I'm interested in data science and machine learning."
 intro1:
   - title: '2017'
 feature_row1:

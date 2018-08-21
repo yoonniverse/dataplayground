@@ -13,13 +13,13 @@
   z-index: 20;
   width: 100%;
   background: white;
-  height: 85px;
+  height: 75px;
 
   &__inner-wrap {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    padding: 0.5em 1em;
     max-width: 100%;
     display: -webkit-box;
     display: flex;
