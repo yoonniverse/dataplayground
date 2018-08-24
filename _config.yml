@@ -19,7 +19,7 @@ locale                   : "en"
 title                    : "Data PlayGround"
 title_separator          : "-"
 name                     : "Harang"
-description              : "A Korean Economics college student's playground for data science."
+description              : "A Korean Economics college student's playground for data science"
 url                      : "https://harangdev.github.io"
 baseurl                  : "/dataplayground"
 repository               : "HarangDev/dataplayground"
@@ -258,6 +258,10 @@ compress_html:
 
 # Defaults
 defaults:
+  - scope:
+      path: ""
+    values:
+      classes: wide
   # _posts
   - scope:
       path: ""
@@ -269,7 +273,7 @@ defaults:
       comments:  true
       share: true
       related: true
-      classes: wide
+
   # _pages
   - scope:
       path: ""
