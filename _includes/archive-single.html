@@ -30,9 +30,8 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {{ post.categories }}
-    {% if site.category_archive.type and page.categories[0] %}
-      {% include category-list.html %}
+    {% if site.category_archive.type and post.categories[0] %}
+      {% include archive_category-list.html %}
     {% endif %}
     <p class="page__meta"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: "%Y-%m-%d" }}</p>
     {% if post.read_time %}
