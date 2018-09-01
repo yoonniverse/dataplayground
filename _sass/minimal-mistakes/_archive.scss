@@ -66,7 +66,7 @@
   position: relative;
   border-radius: $border-radius;
   overflow: hidden;
-  margin-top:
+  margin-top: 1em
 
   img {
     width: 100%;
@@ -182,7 +182,7 @@
   .archive__item-title {
     margin-top: 0.5em;
     font-size: $type-size-5;
-    color: inherit;
+    color: black;
   }
 
   .archive__item-excerpt {
