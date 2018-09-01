@@ -1,8 +1,8 @@
 # main links
 main:
+  - title: "All Posts"
+    url: /archive
   - title: "About Me"
     url: /aboutme
   - title: "Categories"
     url: /categories
-  - title: "All Posts"
-    url: /archive
