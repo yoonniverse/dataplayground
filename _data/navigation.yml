@@ -6,3 +6,5 @@ main:
     url: /aboutme
   - title: "Categories"
     url: /categories
+  - title: "Posts by Year"
+    url: /year-archive
