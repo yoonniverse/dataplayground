@@ -48,7 +48,7 @@
 /* remove border*/
 .page__content {
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0.3em;
     border-bottom: none;
   }
 }
@@ -66,6 +66,7 @@
   position: relative;
   border-radius: $border-radius;
   overflow: hidden;
+  margin-top:
 
   img {
     width: 100%;
@@ -179,8 +180,9 @@
   }
 
   .archive__item-title {
-    margin-top: 0.1em;
+    margin-top: 0.5em;
     font-size: $type-size-5;
+    color: inherit;
   }
 
   .archive__item-excerpt {
