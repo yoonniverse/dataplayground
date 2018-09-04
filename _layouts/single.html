@@ -48,6 +48,8 @@ layout: default
 
       <footer class="page__meta">
 
+        {% include adsense.html %}
+
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
@@ -69,10 +71,6 @@ layout: default
 
       {% include post_pagination.html %}
 
-      <div style="clear:both; float:left; width:100%; padding-top: 1em">
-        {% include adsense.html %}
-      </div>
-      
     </div>
 
     {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
