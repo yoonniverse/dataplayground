@@ -51,11 +51,11 @@ feature_row6:
     url: "https://www.coursera.org/account/accomplishments/specialization/certificate/TWKXNK2CH5DJ"
     btn_label: "View Certificate"
     btn_class: "btn--primary"
-  feature_row7:
-    - image_path: /assets/images/jekyll.png
-      alt: "githb page with jekyll"
-      title: "Aug: Opened This Blog"
-      excerpt: "Opened this blog to keep track of what I learned about data science. Used 'Github Pages' for hosting and 'jekyll' for static website generating. Customized design based on 'Minimal Mistakes' theme."
+feature_row7:
+  - image_path: /assets/images/jekyll.png
+    alt: "githb page with jekyll"
+    title: "Aug: Opened This Blog"
+    excerpt: "Opened this blog to keep track of what I learned about data science. Used 'Github Pages' for hosting and 'jekyll' for static website generating. Customized design based on 'Minimal Mistakes' theme."
 ---
 
 {% include feature_row id="intro1" type="center" %}
