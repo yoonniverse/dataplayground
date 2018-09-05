@@ -32,18 +32,30 @@ feature_row4:
     alt: "coursera machine learning"
     title: "Apr: Machine Learning"
     excerpt: "Attended 'Machine Learning' classes at Coursera taught by Andrew Ng, a professor at Stanford University and a leading professional in deep learning. It is an online version of the Stanford lecture, which has been well-known for its best description of machine learning."
-    url: "https://www.coursera.org/account/accomplishments/specialization/certificate/9HD4TD9Y84HY"
+    url: "https://www.coursera.org/learn/machine-learning"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row5:
   - image_path: http://datameetsmedia.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-01-at-1.33.45-PM.png
     alt: "coursera deeplearning certificate"
     title: "May: Deep Learning"
-    excerpt: "Attended 'Deep Learning' Specialization course taught by professor Andrew Ng. Learned basic Neural Networks, Convolutional Neural Networks, Sequence Models, and Hyperparameter tuning techniques."
+    excerpt: "Attended 'Deep Learning' Specialization course taught by professor Andrew Ng at Coursera. Learned basic Neural Networks, Convolutional Neural Networks, Sequence Models, and Hyperparameter tuning techniques."
     url: "https://www.coursera.org/account/accomplishments/specialization/certificate/9HD4TD9Y84HY"
     btn_label: "View Certificate"
     btn_class: "btn--primary"
-
+feature_row6:
+  - image_path: /assets/images/applied-data-science-with-python.jpg
+    alt: "applied data science with python"
+    title: "July~Aug: Data Science with Python"
+    excerpt: "Attended 'Applied Data Science with Python' Specialization course taught by University of Michigan at Coursera. Learned to apply statistical, machine learning, information visualization, and text analysis techniques to gain new insight into their data."
+    url: "https://www.coursera.org/account/accomplishments/specialization/certificate/TWKXNK2CH5DJ"
+    btn_label: "View Certificate"
+    btn_class: "btn--primary"
+  feature_row7:
+    - image_path: /assets/images/jekyll.png
+      alt: "githb page with jekyll"
+      title: "Aug: Opened This Blog"
+      excerpt: "Opened this blog to keep track of what I learned about data science. Used 'Github Pages' for hosting and 'jekyll' for static website generating. Customized design based on 'Minimal Mistakes' theme."
 ---
 
 {% include feature_row id="intro1" type="center" %}
@@ -53,3 +65,5 @@ feature_row5:
 {% include feature_row id="feature_row3" type="left" %}
 {% include feature_row id="feature_row4" type="right" %}
 {% include feature_row id="feature_row5" type="left" %}
+{% include feature_row id="feature_row6" type="right" %}
+{% include feature_row id="feature_row7" type="left" %}
