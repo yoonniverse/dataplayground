@@ -25,12 +25,25 @@ layout: default
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
+
         <header>
           {% if page.title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-          {% if page.read_time %}
-            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-          {% endif %}
         </header>
+
+        <footer class="page__meta" style="margin-top: 1em; padding-bottom:1em; border-bottom: 1px solid #e6e6e6">
+          {% if page.read_time %}
+          {% endif %}
+          {% if site.data.ui-text[site.locale].meta_label %}
+            <h4 class="page__meta-title" style="color:black">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+          {% endif %}
+          {% include page__taxonomy.html %}
+          {% if page.last_modified_at %}
+            <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time></p>
+          {% elsif page.date %}
+            <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+          {% endif %}
+          <div class="page__date" style="padding-left:3px; margin-top:1em"><strong><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</strong></div>
+        </footer>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
@@ -49,25 +62,11 @@ layout: default
 
       </section>
 
-      <footer class="page__meta">
 
-        {% if site.data.ui-text[site.locale].meta_label %}
-          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
-        {% endif %}
-        {% include page__taxonomy.html %}
-        {% if page.last_modified_at %}
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time></p>
-        {% elsif page.date %}
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
-
-        <!-- LikeBtn.com BEGIN -->
-        <span class="likebtn-wrapper" data-theme="custom" data-btn_size="35" data-f_size="18" data-icon_size="20" data-rich_snippet="true" data-popup_position="left" style="float: right"></span>
-        <script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
-        <!-- LikeBtn.com END -->
-
-      </footer>
-
+      <!-- LikeBtn.com BEGIN -->
+      <span class="likebtn-wrapper" data-theme="custom" data-btn_size="35" data-f_size="18" data-icon_size="20" data-rich_snippet="true" data-popup_position="left" style="float: right; margin-top:1em;"></span>
+      <script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+      <!-- LikeBtn.com END -->
       {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}
