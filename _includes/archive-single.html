@@ -40,7 +40,7 @@
     {% endif %}
     <p class="page__meta"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: "%Y-%m-%d" }}</p>
     {% if post.read_time %}
-      <p class="page__meta" style="padding-left:2px;"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+      <p class="page__meta" style="padding-left:1.5px;"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     <!--{% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify | strip_html | truncate: 200}}</p>{% endif %}-->
   </article>

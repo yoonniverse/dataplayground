@@ -42,7 +42,7 @@ layout: default
           {% elsif page.date %}
             <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
           {% endif %}
-          <div class="page__date" style="padding-left:3px; margin-top:1em"><strong><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</strong></div>
+          <div class="page__date" style="padding-left:2.5px; margin-top:1em"><strong><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</strong></div>
         </footer>
       {% endunless %}
 
