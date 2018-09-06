@@ -71,6 +71,12 @@
     border-bottom: 1px solid $border-color;
   }
 
+  h1 {
+    margin-top: 1em;
+    padding-bottom: 0.2em;
+    border-bottom: 1px solid $border-color;
+  }
+
   p,
   li,
   dl {
@@ -514,4 +520,8 @@
       padding-right: 0;
     }
   }
+}
+
+.ot {
+  overflow-x: auto
 }
