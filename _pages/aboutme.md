@@ -53,9 +53,9 @@ feature_row6:
     btn_class: "btn--primary"
 feature_row7:
   - image_path: /assets/images/jekyll.png
-    alt: "githb page with jekyll"
+    alt: "github page with jekyll"
     title: "Aug: Opened This Blog"
-    excerpt: "Opened this blog to keep track of what I learned about data science. Used 'Github Pages' for hosting and 'jekyll' for static website generating. Customized design based on 'Minimal Mistakes' theme."
+    excerpt: "Opened this blog to keep track of what I learned about data science. Used 'Github Pages' for hosting and 'jekyll' for static website generating. Customized design based on 'Minimal Mistakes' theme. To write a post, used 'jupyter notebook' with markdown and latex."
 ---
 
 {% include feature_row id="intro1" type="center" %}
