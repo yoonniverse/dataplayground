@@ -51,6 +51,9 @@ feature_row6:
     url: "https://www.coursera.org/account/accomplishments/specialization/certificate/TWKXNK2CH5DJ"
     btn_label: "View Certificate"
     btn_class: "btn--primary"
+    url: "https://harangdev.github.io/categories/#applied-data-science-with-python"
+    btn_label: "Summary"
+    btn_class: "btn--primary"
 feature_row7:
   - image_path: /assets/images/jekyll.png
     alt: "githb page with jekyll"
