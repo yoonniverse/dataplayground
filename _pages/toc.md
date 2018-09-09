@@ -1,7 +1,7 @@
 ---
-title: "Index"
+title: "Table of Contents"
 layout: splash
-permalink: /index/
+permalink: /toc/
 author_profile: true
 header:
   overlay_color: "#000"

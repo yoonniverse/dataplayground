@@ -47,7 +47,7 @@ feature_row6:
   - image_path: /assets/images/applied-data-science-with-python.jpg
     alt: "applied data science with python"
     title: "July~Aug: Data Science with Python"
-    excerpt: "Attended 'Applied Data Science with Python' Specialization course taught by University of Michigan at Coursera. Learned to apply statistical, machine learning, information visualization, and text analysis techniques to gain new insight into their data. <a href='https://harangdev.github.io/categories/#applied-data-science-with-python'>What I've Learned</a>"
+    excerpt: "Attended 'Applied Data Science with Python' Specialization course taught by University of Michigan at Coursera. Learned to apply statistical, machine learning, information visualization, and text analysis techniques to gain new insight into their data."
     url: "https://www.coursera.org/account/accomplishments/specialization/certificate/TWKXNK2CH5DJ"
     btn_label: "View Certificate"
     btn_class: "btn--primary"
