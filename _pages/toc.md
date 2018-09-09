@@ -2,12 +2,12 @@
 title: "Table of Contents"
 layout: splash
 permalink: /toc/
-author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header2.jpeg
-  caption: "[Photo by Felix Mittermeier from Pexels](https://www.pexels.com/photo/blue-and-purple-cosmic-sky-956999/)"
+  overlay_image: /assets/images/header3.jpg  
+  caption: "[Photo by Kyle Loftus on Unsplash](https://unsplash.com/photos/RNsFRADZJ_8)"
+excerpt: "Here, you can look into my summarization of what I've learned about Data Science."
 ---
 
 # Applied Data Science with Python
