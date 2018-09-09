@@ -106,7 +106,7 @@ author:
   location         : "Seoul, Korea"
   email            :
   uri              :
-  home             : "/aboutme" # null (default), "absolute or relative url to link to author home"
+  home             : "/bio" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
