@@ -2,6 +2,8 @@
 main:
   - title: "All Posts"
     url: /archive
+  - title: "Index"
+    url: /index
   - title: "Bio"
     url: /bio
   - title: "Categories"
