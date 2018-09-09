@@ -1,9 +1,11 @@
 ---
-title: "About Me"
+title: "Bio"
 layout: splash
 permalink: /bio/
 header:
-  overlay_image: /assets/images/header2.jpeg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/header4.jpg
   caption: "[Photo by Felix Mittermeier from Pexels](https://www.pexels.com/photo/blue-and-purple-cosmic-sky-956999/)"
 excerpt: "I'm majoring Economics at Seoul National University in Korea. I'm interested in data science and machine learning."
 intro1:
