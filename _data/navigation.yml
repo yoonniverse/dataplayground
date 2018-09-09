@@ -2,8 +2,8 @@
 main:
   - title: "All Posts"
     url: /archive
-  - title: "About Me"
-    url: /aboutme
+  - title: "Bio"
+    url: /bio
   - title: "Categories"
     url: /categories
   - title: "Posts by Year"
