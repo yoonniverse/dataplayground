@@ -35,6 +35,12 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 1. [Introduction to Machine Learning and k-NN](/applied-data-science-with-python/applied-machine-learning-in-python/1/)
 
+1. [Supervised Learning](/applied-data-science-with-python/applied-machine-learning-in-python/2/)
+
+1. [Supervised Learning with scikit-learn](/applied-data-science-with-python/applied-machine-learning-in-python/3/)
+
+1. [Unsupervised Learning](/applied-data-science-with-python/applied-machine-learning-in-python/4/)
+
 ## 4. Applied Text Mining in Python
 
 1. [Working with text in Python](/applied-data-science-with-python/applied-text-mining-in-python/1/)
