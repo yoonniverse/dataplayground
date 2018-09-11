@@ -33,7 +33,7 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ## 3. Applied Machine Learning in Python
 
-1. [Introduction to Machine Learning and k-NN](/applied-data-science-with-python/applied-machine-learning-in-python/1/)
+1. [Introduction to Machine Learning](/applied-data-science-with-python/applied-machine-learning-in-python/1/)
 
 1. [Supervised Learning](/applied-data-science-with-python/applied-machine-learning-in-python/2/)
 
