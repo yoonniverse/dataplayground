@@ -1,7 +1,7 @@
 ---
 title: "Table of Contents"
 layout: splash
-permalink: /toc/
+permalink: /contents/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -39,7 +39,7 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 1. [Supervised Learning with scikit-learn](/applied-data-science-with-python/applied-machine-learning-in-python/3/)
 
-1. [Unsupervised Learning](/applied-data-science-with-python/applied-machine-learning-in-python/4/)
+1. [Unsupervised Learning with scikit-learn](/applied-data-science-with-python/applied-machine-learning-in-python/4/)
 
 ## 4. Applied Text Mining in Python
 
