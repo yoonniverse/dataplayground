@@ -10,6 +10,12 @@ header:
 excerpt: "Here, you can look into my summarization of what I've learned about Data Science."
 ---
 
+# Machine Learning
+
+1. [Supervised and Unsupervised Learning](/machine-learning/1/)
+
+2. [Univariate Linear Regression](/machine-learning/2/)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
