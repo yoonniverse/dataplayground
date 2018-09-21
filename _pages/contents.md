@@ -16,6 +16,20 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 2. [Univariate Linear Regression](/machine-learning/2/)
 
+3. [Multivariate Linear Regression](/machine-learning/3/)
+
+4. [Feature Normalization](/machine-learning/4/)
+
+5. [Polynomial Regression](/machine-learning/5/)
+
+6. [Normal Equation in Linear Regression](/machine-learning/6/)
+
+7. [Logistic Regression](/machine-learning/7/)
+
+8. [Overfitting, Underfitting, and Regularization](/machine-learning/8/)
+
+9. [Regularized Linear Regression and Logistic Regression Cheatsheet](/machine-learning/9/)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
