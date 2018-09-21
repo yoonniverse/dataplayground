@@ -54,6 +54,6 @@ feature_row4:
 
 <a href="archive"><h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3></a>
 
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:20 %}
   {% include archive-single.html %}
 {% endfor %}
