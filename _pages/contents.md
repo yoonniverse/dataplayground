@@ -5,7 +5,7 @@ permalink: /contents/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header3.jpg  
+  overlay_image: /assets/images/header3.jpg
   caption: "[Photo by Kyle Loftus on Unsplash](https://unsplash.com/photos/RNsFRADZJ_8)"
 excerpt: "Here, you can look into my summarization of what I've learned about Data Science."
 ---
@@ -29,6 +29,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 8. [Overfitting, Underfitting, and Regularization](/machine-learning/8/)
 
 9. [Regularized Linear Regression and Logistic Regression Cheatsheet](/machine-learning/9/)
+
+10. [Neural Networks](/machie-learning/10/)
 
 # Applied Data Science with Python
 
