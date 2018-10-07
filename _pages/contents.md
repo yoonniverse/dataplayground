@@ -32,6 +32,10 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 10. [Neural Networks](/machie-learning/10/)
 
+11. [Model Selection and Bias(Underfitting)/Variance(Overfitting)](/machine-learning/11/)
+
+12. [Evaluation Metrics for Machine Learning Models](/machine-learning/12/)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
