@@ -36,6 +36,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 12. [Evaluation Metrics for Machine Learning Models](/machine-learning/12/)
 
+13. [Support Vector Machine (SVM) and Kernels](/machine-learning/13/)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
