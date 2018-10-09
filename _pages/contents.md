@@ -42,6 +42,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 15. [Dimensionality Reduction and Principle Component Analysis (PCA)](/machine-learning/15/)
 
+### 16. [Anomaly Detection and Gaussian Distribution](/machine-learning/16/)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
