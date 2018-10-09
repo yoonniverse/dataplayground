@@ -40,6 +40,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 14. [Clustering and K-Menas Algorithm](/machine-learning/14/)
 
+### 15. [Dimensionality Reduction and Principle Component Analysis (PCA)](/machine-learning/15/)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
