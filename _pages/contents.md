@@ -38,6 +38,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 13. [Support Vector Machine (SVM) and Kernels](/machine-learning/13/)
 
+### 14. [Clustering and K-Menas Algorithm](/machine-learning/14/)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
