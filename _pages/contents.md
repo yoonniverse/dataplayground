@@ -38,7 +38,7 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 13. [Support Vector Machine (SVM) and Kernels](/machine-learning/13/)
 
-### 14. [Clustering and K-Menas Algorithm](/machine-learning/14/)
+### 14. [Clustering and K-Means Algorithm](/machine-learning/14/)
 
 ### 15. [Dimensionality Reduction and Principle Component Analysis (PCA)](/machine-learning/15/)
 
