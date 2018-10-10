@@ -44,7 +44,7 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 16. [Anomaly Detection and Gaussian Distribution](/machine-learning/16/)
 
-### 17. [Recommender System: Collaborative Filtering](/machine-learning/17/)
+### 17. [Recommender System - Collaborative Filtering](/machine-learning/17/)
 
 ### 18. [Stochastic Gradient Descent and Mini-Batch Gradient Descent](/machine-learning/18/)
 
