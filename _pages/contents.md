@@ -30,7 +30,7 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 9. [Regularized Linear Regression and Logistic Regression Cheatsheet](/machine-learning/9/)
 
-### 10. [Neural Networks](/machie-learning/10/)
+### 10. [Neural Networks](/machine-learning/10/)
 
 ### 11. [Model Selection and Bias(Underfitting)/Variance(Overfitting)](/machine-learning/11/)
 
