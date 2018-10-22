@@ -52,6 +52,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 1. [Forward and Backward Propagation in Binary Logistic Regression](/deep-learning/1/)
 
+### 2. [Forward and Backward Propagation in Neural Networks](/deep-learning/2/)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
