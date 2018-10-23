@@ -54,6 +54,10 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 2. [Forward and Backward Propagation in Neural Networks](/deep-learning/2/)
 
+### 3. [Activation Functions](/deep-learning/3/)
+
+### 4. [Initialization of Weights](/deep-learning/4/)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
