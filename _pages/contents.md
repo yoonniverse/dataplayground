@@ -60,6 +60,14 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 5. [Bias/Variance and Regularization/Dropout](/deep-learning/5/)
 
+### 6. [Vanishing/Exploding Gradients](/deep-learning/6/)
+
+### 7. [Gradient Check](/deep-learning/7/)
+
+### 8. [Mini-Batch Gradient Descent](/deep-learning/8/)
+
+### 9. [Exponentially Weighted Moving Average](/deep=learning/9/)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
