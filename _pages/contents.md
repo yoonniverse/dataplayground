@@ -70,6 +70,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 10. [Gradient Descent Optimization Algorithms with Momentum, RMSProp, and Adam](/deep-learning/10/)
 
+### 11. [Hyperparameter Tuning](/deep-learning/11/)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
