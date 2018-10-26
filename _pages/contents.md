@@ -66,7 +66,9 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 8. [Mini-Batch Gradient Descent](/deep-learning/8/)
 
-### 9. [Exponentially Weighted Moving Average](/deep=learning/9/)
+### 9. [Exponentially Weighted Moving Average](/deep-learning/9/)
+
+### 10. [Gradient Descent Optimization Algorithms with Momentum, RMSProp, and Adam](/deep-learning/10/)
 
 # Applied Data Science with Python
 
