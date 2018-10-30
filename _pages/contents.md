@@ -74,6 +74,12 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 12. [Batch Normalization](/deep-learning/12/)
 
+### 13. [Orthogonalization in Machine Learning](/deep-learning/13)
+
+### 14. [Setting Metric for Machine Learning](/deep-learning/14)
+
+### 15. [Setting Development Set and Test Set](/deep-learning/15)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
