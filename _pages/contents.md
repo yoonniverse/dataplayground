@@ -80,6 +80,10 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 15. [Setting Development Set and Test Set](/deep-learning/15)
 
+### 16. [Which Way to Prioritize - Avoidable Bias and Variance](/deep-learning/16)
+
+### 17. [Error Analysis](/deep-learning/17)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
