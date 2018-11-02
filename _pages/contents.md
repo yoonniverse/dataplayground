@@ -86,6 +86,10 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 18. [Data Mismatch of Training Set and Real World Examples](/deep-learning/18)
 
+### 19. [Transfer Learning](/deep-leraning/19)
+
+### 20. [Multi-task Learning](/deep-learning/20)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
