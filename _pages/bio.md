@@ -7,14 +7,14 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/header5.jpg
   caption: "[Photo by Joel Filipe on Unsplash](https://unsplash.com/photos/VuwAfoHpxgs)"
-excerpt: "I'm majoring Economics at Seoul National University in Korea. I'm interested in data science and machine learning."
+excerpt: "I'm majoring Economics at Seoul National University in Korea and interested in data science and machine learning."
 intro1:
   - title: '2017'
 feature_row1:
   - image_path: https://cdn-images-1.medium.com/max/1600/1*Esywynei7PjK0uR-luaZ-A.png
     alt: "python"
     title: "Sep~Dec: My first encounter to programming."
-    excerpt: "First encountered programming in a university lecture. Learned the basics of Python and used it to solve many problems."
+    excerpt: "First encountered programming in a university lecture. Learned the basics of Python and used it to solve problems."
 intro2:
   - title: '2018'
 feature_row2:
@@ -39,7 +39,7 @@ feature_row5:
   - image_path: http://datameetsmedia.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-01-at-1.33.45-PM.png
     alt: "coursera deeplearning certificate"
     title: "May: Deep Learning"
-    excerpt: "Attended 'Deep Learning' Specialization course taught by professor Andrew Ng at Coursera. Learned basic Neural Networks, Convolutional Neural Networks, Sequence Models, and Hyperparameter tuning techniques."
+    excerpt: "Attended 'Deep Learning' Specialization course taught by professor Andrew Ng at Coursera. Learned basic Neural Networks, Convolutional Neural Networks, Sequence Models, and practical skills."
     url: "https://www.coursera.org/account/accomplishments/specialization/certificate/9HD4TD9Y84HY"
     btn_label: "View Certificate"
     btn_class: "btn--primary"

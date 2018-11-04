@@ -50,45 +50,57 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 # Deep Learning
 
-### 1. [Forward and Backward Propagation in Binary Logistic Regression](/deep-learning/1/)
+## 1. Neural-Networks-Basics
 
-### 2. [Forward and Backward Propagation in Neural Networks](/deep-learning/2/)
+### 1. [Forward and Backward Propagation in Binary Logistic Regression](/deep-learning/neural-networks-basics/1/)
 
-### 3. [Activation Functions](/deep-learning/3/)
+### 2. [Forward and Backward Propagation in Neural Networks](/deep-learning/neural-networks-basics/2/)
 
-### 4. [Initialization of Weights](/deep-learning/4/)
+### 3. [Activation Functions](/deep-learning/neural-networks-basics/3/)
 
-### 5. [Bias/Variance and Regularization/Dropout](/deep-learning/5/)
+### 4. [Initialization of Weights](/deep-learning/neural-networks-basics/4/)
 
-### 6. [Vanishing/Exploding Gradients](/deep-learning/6/)
+## 2. Improving-Deep-Neural-Networks
 
-### 7. [Gradient Check](/deep-learning/7/)
+### 5. [Bias/Variance and Regularization/Dropout](/deep-learning/improving-deep-neural-networks/5/)
 
-### 8. [Mini-Batch Gradient Descent](/deep-learning/8/)
+### 6. [Vanishing/Exploding Gradients](/deep-learning/improving-deep-neural-networks/6/)
 
-### 9. [Exponentially Weighted Moving Average](/deep-learning/9/)
+### 7. [Gradient Check](/deep-learning/improving-deep-neural-networks/7/)
 
-### 10. [Gradient Descent Optimization Algorithms with Momentum, RMSProp, and Adam](/deep-learning/10/)
+### 8. [Mini-Batch Gradient Descent](/deep-learning/improving-deep-neural-networks/8/)
 
-### 11. [Hyperparameter Tuning](/deep-learning/11/)
+### 9. [Exponentially Weighted Moving Average](/deep-learning/improving-deep-neural-networks/9/)
 
-### 12. [Batch Normalization](/deep-learning/12/)
+### 10. [Gradient Descent Optimization Algorithms with Momentum, RMSProp, and Adam](/deep-learning/improving-deep-neural-networks/10/)
 
-### 13. [Orthogonalization in Machine Learning](/deep-learning/13)
+### 11. [Hyperparameter Tuning](/deep-learning/improving-deep-neural-networks/11/)
 
-### 14. [Setting Metric for Machine Learning](/deep-learning/14)
+### 12. [Batch Normalization](/deep-learning/improving-deep-neural-networks/12/)
 
-### 15. [Setting Development Set and Test Set](/deep-learning/15)
+## 3. Structuring-Machine-Learning-Projects
 
-### 16. [Deciding Which Way to Prioritize - Avoidable Bias and Variance](/deep-learning/16)
+### 13. [Orthogonalization in Machine Learning](/deep-learning/structuring-machine-learning-projects/13)
 
-### 17. [Error Analysis](/deep-learning/17)
+### 14. [Setting Metric for Machine Learning](/deep-learning/structuring-machine-learning-projects/14)
 
-### 18. [Data Mismatch of Training Set and Real World Examples](/deep-learning/18)
+### 15. [Setting Development Set and Test Set](/deep-learning/structuring-machine-learning-projects/15)
 
-### 19. [Transfer Learning](/deep-leraning/19)
+### 16. [Deciding Which Way to Prioritize - Avoidable Bias and Variance](/deep-learning/structuring-machine-learning-projects/16)
 
-### 20. [Multi-task Learning](/deep-learning/20)
+### 17. [Error Analysis](/deep-learning/structuring-machine-learning-projects/17)
+
+### 18. [Data Mismatch of Training Set and Real World Examples](/deep-learning/structuring-machine-learning-projects/18)
+
+### 19. [Transfer Learning](/deep-leraning/structuring-machine-learning-projects/19)
+
+### 20. [Multi-task Learning](/deep-learning/structuring-machine-learning-projects/20)
+
+## 4. Convolutional Neural Networks
+
+### 21. [What is Convolutional Neural Network?](/deep-learning/convolutional-neural-networks/21)
+
+## 5. Sequence Models
 
 # Applied Data Science with Python
 
