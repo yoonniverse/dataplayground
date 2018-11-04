@@ -50,7 +50,7 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 # Deep Learning
 
-## 1. Neural-Networks-Basics
+## 1. Neural Networks Basics
 
 ### 1. [Forward and Backward Propagation in Binary Logistic Regression](/deep-learning/neural-networks-basics/1/)
 
@@ -60,7 +60,7 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 4. [Initialization of Weights](/deep-learning/neural-networks-basics/4/)
 
-## 2. Improving-Deep-Neural-Networks
+## 2. Improving Deep Neural Networks
 
 ### 5. [Bias/Variance and Regularization/Dropout](/deep-learning/improving-deep-neural-networks/5/)
 
@@ -78,7 +78,7 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 12. [Batch Normalization](/deep-learning/improving-deep-neural-networks/12/)
 
-## 3. Structuring-Machine-Learning-Projects
+## 3. Structuring Machine Learning Projects
 
 ### 13. [Orthogonalization in Machine Learning](/deep-learning/structuring-machine-learning-projects/13)
 
