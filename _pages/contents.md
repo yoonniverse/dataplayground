@@ -98,7 +98,7 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ## 4. Convolutional Neural Networks
 
-### 21. [What is Convolutional Neural Network](/deep-learning/convolutional-neural-networks/21)
+### 21. [Intro to Convolutional Neural Network](/deep-learning/convolutional-neural-networks/21)
 
 ## 5. Sequence Models
 
