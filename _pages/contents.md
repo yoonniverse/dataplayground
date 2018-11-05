@@ -100,6 +100,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 21. [Intro to Convolutional Neural Network](/deep-learning/convolutional-neural-networks/21)
 
+### 22. [Convolution](/deep-learning/convolutional-neural-networks/22)
+
 ## 5. Sequence Models
 
 # Applied Data Science with Python
