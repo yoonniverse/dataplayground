@@ -104,6 +104,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 23. [Pooling Layer](/deep-learning/convolutional-neural-networks/24)
 
+### 24. [Classic CNNs - LeNet-5, AlexNet, VGG-16](/deep-learning/convolutional-neural-networks/25)
+
 ## 5. Sequence Models
 
 # Applied Data Science with Python
