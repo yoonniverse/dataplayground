@@ -102,6 +102,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 22. [Convolution](/deep-learning/convolutional-neural-networks/23)
 
+### 23. [Pooling Layer](/deep-learning/convolutional-neural-networks/24)
+
 ## 5. Sequence Models
 
 # Applied Data Science with Python
