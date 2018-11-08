@@ -96,21 +96,23 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 20. [Multi-task Learning](/deep-learning/structuring-machine-learning-projects/20)
 
+### 21. [End-to-End Deep Learning](/deep-learning/structuring-machine-learning-projects/21)
+
 ## 4. Convolutional Neural Networks
 
-### 21. [Intro to Convolutional Neural Network](/deep-learning/convolutional-neural-networks/21)
+### 22. [Intro to Convolutional Neural Network](/deep-learning/convolutional-neural-networks/22)
 
-### 22. [Convolution](/deep-learning/convolutional-neural-networks/22)
+### 23. [Convolution](/deep-learning/convolutional-neural-networks/23)
 
-### 23. [Pooling Layer](/deep-learning/convolutional-neural-networks/23)
+### 24. [Pooling Layer](/deep-learning/convolutional-neural-networks/24)
 
-### 24. [Classic CNNs - LeNet-5, AlexNet, VGG-16](/deep-learning/convolutional-neural-networks/24)
+### 25. [Classic CNNs - LeNet-5, AlexNet, VGG-16](/deep-learning/convolutional-neural-networks/25)
 
-### 25. [ResNet](/deep-learning/convolutional-neural-networks/25)
+### 26. [ResNet](/deep-learning/convolutional-neural-networks/26)
 
-### 26. [Inception Network](/deep-learning/convolutional-neural-networks/26)
+### 27. [Inception Network](/deep-learning/convolutional-neural-networks/27)
 
-### 27. [Practical Advices for Using ConvNets](/deep-learning/convolutional-neural-networks/27)
+### 28. [Practical Advices for Using ConvNets](/deep-learning/convolutional-neural-networks/28)
 
 ## 5. Sequence Models
 
