@@ -110,6 +110,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 26. [Inception Network](/deep-learning/convolutional-neural-networks/27)
 
+### 27. [Practical Advices for Using ConvNets](/deep-learning/convolutional-neural-networks/28)
+
 ## 5. Sequence Models
 
 # Applied Data Science with Python
