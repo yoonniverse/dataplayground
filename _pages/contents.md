@@ -114,6 +114,10 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 28. [Practical Advices for Using ConvNets](/deep-learning/convolutional-neural-networks/28)
 
+## 5. Object Detection
+
+### 29. [Object Classification with Localization](/deep-learning/object-detection/29)
+
 ## 5. Sequence Models
 
 # Applied Data Science with Python
