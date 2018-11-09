@@ -118,7 +118,9 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 29. [Object Classification with Localization](/deep-learning/object-detection/29)
 
-## 5. Sequence Models
+### 30. [Landmark Detection](/dee-learning/object-detection/30)
+
+### 31. [Sliding Windows Detection](/dee-learning/object-detection/31)
 
 # Applied Data Science with Python
 
