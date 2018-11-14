@@ -118,7 +118,10 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 29. [Object Localization and Landmark Detection](/deep-learning/object-detection/29)
 
-### 30. [Sliding Windows Detection](/dee-learning/object-detection/30)
+### 30. [Sliding Windows Detection and Convolutional Wayt ot Implement It](/deep-learning/object-detection/30)
+
+### 31. [YOLO Algorithm](/deep-learning/object-detection/31)
+
 
 # Applied Data Science with Python
 
