@@ -114,14 +114,13 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 28. [Practical Advices for Using ConvNets](/deep-learning/convolutional-neural-networks/28)
 
-## 5. Object Detection
-
 ### 29. [Object Localization and Landmark Detection](/deep-learning/object-detection/29)
 
 ### 30. [Sliding Windows Detection and Convolutional Wayt ot Implement It](/deep-learning/object-detection/30)
 
 ### 31. [YOLO Algorithm](/deep-learning/object-detection/31)
 
+### 32. [Face Recognition](/deep-learning/object-detection/32)
 
 # Applied Data Science with Python
 
