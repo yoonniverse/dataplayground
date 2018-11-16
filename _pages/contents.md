@@ -122,6 +122,12 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 32. [Face Recognition](/deep-learning/object-detection/32)
 
+### 32. [Neural Style Transfer](/deep-learning/object-detection/33)
+
+## 5. Recurrent Neural Networks
+
+
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
