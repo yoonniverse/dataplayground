@@ -126,7 +126,7 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ## 5. Recurrent Neural Networks
 
-
+### 33. [What is a Recurrent Neural Network?](/deep-learning/recurrent-neural-networks/34)
 
 # Applied Data Science with Python
 
