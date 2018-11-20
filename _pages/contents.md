@@ -122,11 +122,13 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 32. [Face Recognition](/deep-learning/convolutional-neural-networks/32)
 
-### 32. [Neural Style Transfer](/deep-learning/convolutional-neural-networks/33)
+### 33. [Neural Style Transfer](/deep-learning/convolutional-neural-networks/33)
 
 ## 5. Recurrent Neural Networks
 
-### 33. [What is a Recurrent Neural Network?](/deep-learning/recurrent-neural-networks/34)
+### 34. [What is a Recurrent Neural Network?](/deep-learning/recurrent-neural-networks/34)
+
+### 35. [Language Model with RNN](/deep-learning/recurrent-neural-networks/35)
 
 # Applied Data Science with Python
 
