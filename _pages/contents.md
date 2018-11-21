@@ -130,7 +130,9 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 35. [Language Model with RNN](/deep-learning/recurrent-neural-networks/35)
 
-### 36. [ GRU(Gated Recurrent Unit) and LSTM(Long Short Term Memory)](/deep-learning/recurrent-neural-networks/36)
+### 36. [GRU(Gated Recurrent Unit) and LSTM(Long Short Term Memory)](/deep-learning/recurrent-neural-networks/36)
+
+### 37. [Bidirectional RNN and Deep RNN](/deep-learning/recurrent-neural-networks/37)
 
 # Applied Data Science with Python
 
@@ -144,42 +146,42 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ## 2. Applied Data Plotting in Python
 
-### 1. [Principles of Information Visualization (Visualization Wheel, Data-Ink Ratio, Chart Junk, Lie Factor, Truthful Art)](/applied-data-science-with-python/applied-data-plotting-in-python/1/)
+### 4. [Principles of Information Visualization (Visualization Wheel, Data-Ink Ratio, Chart Junk, Lie Factor, Truthful Art)](/applied-data-science-with-python/applied-data-plotting-in-python/1/)
 
-### 2. [Basic Charting with Matplotlib (Scatterplot, Barchart, Lineplot)](/applied-data-science-with-python/applied-data-plotting-in-python/2/)
+### 5. [Basic Charting with Matplotlib (Scatterplot, Barchart, Lineplot)](/applied-data-science-with-python/applied-data-plotting-in-python/2/)
 
-### 3. [Applied Charting with Matplotlib (Subplots, Histogram, Box and Whisker Plot, Heatmap, Animation)](/applied-data-science-with-python/applied-data-plotting-in-python/3/)
+### 6. [Applied Charting with Matplotlib (Subplots, Histogram, Box and Whisker Plot, Heatmap, Animation)](/applied-data-science-with-python/applied-data-plotting-in-python/3/)
 
-### 4. [Plotting from Pandas and with Seaborn](/applied-data-science-with-python/applied-data-plotting-in-python/4/)
+### 7. [Plotting from Pandas and with Seaborn](/applied-data-science-with-python/applied-data-plotting-in-python/4/)
 
 ## 3. Applied Machine Learning in Python
 
-### 1. [Introduction to Machine Learning](/applied-data-science-with-python/applied-machine-learning-in-python/1/)
+### 8. [Introduction to Machine Learning](/applied-data-science-with-python/applied-machine-learning-in-python/1/)
 
-### 2. [Supervised Learning](/applied-data-science-with-python/applied-machine-learning-in-python/2/)
+### 9. [Supervised Learning](/applied-data-science-with-python/applied-machine-learning-in-python/2/)
 
-### 3. [Supervised Learning with scikit-learn](/applied-data-science-with-python/applied-machine-learning-in-python/3/)
+### 10. [Supervised Learning with scikit-learn](/applied-data-science-with-python/applied-machine-learning-in-python/3/)
 
-### 4. [Unsupervised Learning with scikit-learn](/applied-data-science-with-python/applied-machine-learning-in-python/4/)
+### 11. [Unsupervised Learning with scikit-learn](/applied-data-science-with-python/applied-machine-learning-in-python/4/)
 
 ## 4. Applied Text Mining in Python
 
-### 1. [Working with text in Python](/applied-data-science-with-python/applied-text-mining-in-python/1/)
+### 12. [Working with text in Python](/applied-data-science-with-python/applied-text-mining-in-python/1/)
 
-### 2. [Regular Expressions (Regex)](/applied-data-science-with-python/applied-text-mining-in-python/2/)
+### 13. [Regular Expressions (Regex)](/applied-data-science-with-python/applied-text-mining-in-python/2/)
 
-### 3. [Basic Natural Language Processing](/applied-data-science-with-python/applied-text-mining-in-python/3/)
+### 14. [Basic Natural Language Processing](/applied-data-science-with-python/applied-text-mining-in-python/3/)
 
-### 4. [Classification of Text](/applied-data-science-with-python/applied-text-mining-in-python/4/)
+### 15. [Classification of Text](/applied-data-science-with-python/applied-text-mining-in-python/4/)
 
-### 5. [Topic Modeling](/applied-data-science-with-python/applied-text-mining-in-python/5/)
+### 16. [Topic Modeling](/applied-data-science-with-python/applied-text-mining-in-python/5/)
 
 ## 5. Applied Social Network Analysis in Python
 
-### 1. [Intro to Networks and Basics on NetworkX](/applied-data-science-with-python/applied-social-network-analysis-in-python/1/)
+### 17. [Intro to Networks and Basics on NetworkX](/applied-data-science-with-python/applied-social-network-analysis-in-python/1/)
 
-### 2. [Network Connectivity](/applied-data-science-with-python/applied-social-network-analysis-in-python/2/)
+### 18. [Network Connectivity](/applied-data-science-with-python/applied-social-network-analysis-in-python/2/)
 
-### 3. [Influence Measures and Network Centrality](/applied-data-science-with-python/applied-social-network-analysis-in-python/3/)
+### 19. [Influence Measures and Network Centrality](/applied-data-science-with-python/applied-social-network-analysis-in-python/3/)
 
-### 4. [Network Evolution (Preferential Attachment Model, Small World Model, Link Prediction)](/applied-data-science-with-python/applied-social-network-analysis-in-python/4/)
+### 20. [Network Evolution (Preferential Attachment Model, Small World Model, Link Prediction)](/applied-data-science-with-python/applied-social-network-analysis-in-python/4/)
