@@ -130,6 +130,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 35. [Language Model with RNN](/deep-learning/recurrent-neural-networks/35)
 
+### 36. [ GRU(Gated Recurrent Unit) and LSTM(Long Short Term Memory)](/deep-learning/recurrent-neural-networks/36)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
