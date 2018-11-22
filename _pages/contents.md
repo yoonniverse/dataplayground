@@ -134,6 +134,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 37. [Bidirectional RNN and Deep RNN](/deep-learning/recurrent-neural-networks/37)
 
+### 38. [Word Embedding](/deep-learning/recurrent-neural-networks/38)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
