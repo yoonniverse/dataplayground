@@ -140,6 +140,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 40. [Sentiment Classification](/deep-learning/recurrent-neural-networks/40)
 
+### 41. [Debiasing Word Embeddings](/deep-learning/recurrent-neural-networks/41)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
