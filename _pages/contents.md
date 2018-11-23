@@ -136,6 +136,10 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 38. [Word Embedding](/deep-learning/recurrent-neural-networks/38)
 
+### 39. [Learning Word Embedding - Word2Vec, Negative Sampling, GloVE](/deep-learning/recurrent-neural-networks/39)
+
+### 40. [Sentiment Classification](/deep-learning/recurrent-neural-networks/40)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
