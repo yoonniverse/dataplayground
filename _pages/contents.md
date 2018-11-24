@@ -142,6 +142,10 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 41. [Debiasing Word Embeddings](/deep-learning/recurrent-neural-networks/41)
 
+### 42. [Sequence to Sequence Model](/deep-learning/recurrent-neural-networks/42)
+
+### 43. [Beam Search](/deep-learning/recurrent-neural-networks/43)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
