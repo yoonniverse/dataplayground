@@ -148,6 +148,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 44. [Bleu Score](/deep-learning/recurrent-neural-networks/44)
 
+### 45. [Attention Model](/deep-learning/recurrent-neural-networks/45)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
