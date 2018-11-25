@@ -146,6 +146,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 43. [Beam Search](/deep-learning/recurrent-neural-networks/43)
 
+### 44. [Bleu Score](/deep-learning/recurrent-neural-networks/44)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
