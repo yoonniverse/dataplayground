@@ -10,7 +10,7 @@ header:
 excerpt: "Here, you can look into my summarization of what I've learned about Data Science."
 ---
 
-# Machine Learning
+# <a href='https://www.coursera.org/learn/machine-learning' target='_blank'>Machine Learning</a>
 
 ### 1. [Supervised and Unsupervised Learning](/machine-learning/1/)
 
@@ -48,7 +48,7 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 18. [Stochastic Gradient Descent and Mini-Batch Gradient Descent](/machine-learning/18/)
 
-# Deep Learning
+# <a href='https://www.coursera.org/specializations/deep-learning' target='_blank'>Deep Learning</a>
 
 ## 1. Neural Networks Basics
 
@@ -152,7 +152,7 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 46. [Speech Recognition and Trigger Word Detection](/deep-learning/recurrent-neural-networks/46)
 
-# Applied Data Science with Python
+# <a href='https://www.coursera.org/specializations/data-science-python' target='_blank'>Applied Data Science with Python</a>
 
 ## 1. Introduction to Data Science in Python
 
