@@ -150,6 +150,8 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 
 ### 45. [Attention Model](/deep-learning/recurrent-neural-networks/45)
 
+### 46. [Speech Recognition and Trigger Word Detection](/deep-learning/recurrent-neural-networks/46)
+
 # Applied Data Science with Python
 
 ## 1. Introduction to Data Science in Python
