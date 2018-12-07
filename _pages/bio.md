@@ -56,6 +56,11 @@ feature_row7:
     alt: "github page with jekyll"
     title: "Aug: Opened This Blog"
     excerpt: "Opened this blog to keep track of what I learned about data science. Used 'Github Pages' for hosting and 'jekyll' for static website generating. Customized design based on 'Minimal Mistakes' theme. To write a post, used jupyter notebook, markdown and latex."
+feature_row8:
+  - image_path: /assets/images/stock-price.png
+    alt: "stock price"
+    title: "Sep~Nov: Worked on Predicting Stock Price with Deep Learning"
+    excerpt: "Tried predicting stock prices. While doing this project, used data preprocessing, MLP, RNN, regularization, and machine learning workflows that I've learned previously. Tried classification and regression with MLP and RNN+MLP. Used tensorflow and Keras for framework."
 ---
 
 {% include feature_row id="intro1" type="center" %}
@@ -67,3 +72,4 @@ feature_row7:
 {% include feature_row id="feature_row5" type="left" %}
 {% include feature_row id="feature_row6" type="right" %}
 {% include feature_row id="feature_row7" type="left" %}
+{% include feature_row id="feature_row8" type="right" %}
