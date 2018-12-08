@@ -207,3 +207,9 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 # Reinforcement Learning<small><a href='https://www.udemy.com/artificial-intelligence-reinforcement-learning-in-python/' target='_blank'>coursera</a></small>
 
 ### 1. [What is Reinforcement Learning?](/reinforcement-learning/1)
+
+### 2. [Explore-Exploit Dilemma](/reinforcement-learning/2)
+
+### 3. [Updating a Sample Mean](/reinforcement-learning/3)
+
+### 4. [Comparing Different Epsilons](/reinforcement-learning/4)
