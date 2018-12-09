@@ -215,3 +215,5 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 ### 4. [Comparing Different Epsilons](/reinforcement-learning/4)
 
 ### 5. [Optimistic Initial Values](/reinforcement-learning/5)
+
+### 6. [UCB1](/reinforcement-learning/6)
