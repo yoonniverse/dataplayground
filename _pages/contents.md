@@ -213,3 +213,5 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 ### 3. [Updating a Sample Mean](/reinforcement-learning/3)
 
 ### 4. [Comparing Different Epsilons](/reinforcement-learning/4)
+
+### 5. [Optimistic Initial Values](/reinforcement-learning/5)
