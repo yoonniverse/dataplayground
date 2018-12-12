@@ -60,7 +60,7 @@ feature_row8:
   - image_path: /assets/images/stock-price.png
     alt: "stock price"
     title: "Sep~Nov: Worked on Predicting Stock Price with Deep Learning"
-    excerpt: "Tried predicting stock prices. While doing this project, used data preprocessing, MLP, RNN, regularization, and machine learning workflows that I've learned previously. Tried classification and regression with MLP and RNN+MLP. Used tensorflow and Keras for framework."
+    excerpt: "Tried predicting stock prices. While doing this project, used data preprocessing, DNN, RNN, regularization, and machine learning workflows that I've learned previously. Tried classification and regression. Used tensorflow and Keras for framework."
 ---
 
 {% include feature_row id="intro1" type="center" %}

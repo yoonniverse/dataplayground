@@ -203,17 +203,3 @@ excerpt: "Here, you can look into my summarization of what I've learned about Da
 ### 19. [Influence Measures and Network Centrality](/applied-data-science-with-python/applied-social-network-analysis-in-python/3/)
 
 ### 20. [Network Evolution (Preferential Attachment Model, Small World Model, Link Prediction)](/applied-data-science-with-python/applied-social-network-analysis-in-python/4/)
-
-# Reinforcement Learning <small><a href='https://www.udemy.com/artificial-intelligence-reinforcement-learning-in-python/' target='_blank'>udemy</a></small>
-
-### 1. [What is Reinforcement Learning?](/reinforcement-learning/1)
-
-### 2. [Explore-Exploit Dilemma](/reinforcement-learning/2)
-
-### 3. [Updating a Sample Mean](/reinforcement-learning/3)
-
-### 4. [Comparing Different Epsilons](/reinforcement-learning/4)
-
-### 5. [Optimistic Initial Values](/reinforcement-learning/5)
-
-### 6. [UCB1](/reinforcement-learning/6)
