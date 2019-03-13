@@ -11,24 +11,24 @@ excerpt: "I'm majoring Economics at Seoul National University in Korea and inter
 intro1:
   - title: '2017'
 feature_row1:
-  - image_path: https://cdn-images-1.medium.com/max/1600/1*Esywynei7PjK0uR-luaZ-A.png
+  - image_path: /assets/images/python.png
     alt: "python"
     title: "Sep~Dec: My first encounter to programming."
     excerpt: "First encountered programming in a university lecture. Learned the basics of Python and used it to solve problems."
 intro2:
   - title: '2018'
 feature_row2:
-  - image_path: http://blog.yozi.kr/2018/03/30/laravel-propel/laravel-propel-logo.jpg
+  - image_path: /assets/images/laravel.png
     alt: "laravel"
     title: "Jan~Feb: Web Development"
     excerpt: "Developed dynamic web for sharing images and videos, with PHP and mySQL using the Laravel framework. Live Chat with pusher, automatic email sending function using Mailgun, and a bulletin board function for posting comments and replies are included."
 feature_row3:
-  - image_path: https://d2jq2hx2dbkw6t.cloudfront.net/337/f7-cordova-vue.png
+  - image_path: /assets/images/f7-cordova-vue.png
     alt: "vuejs"
     title: "Mar: Worked on Developing Mobile Application"
     excerpt: "Used the Vue.js front end and the Laravel backend API to create an application for sharing posts made up of images and text. Applied the mobile-friendly Framework7 UI, but did not finish deploying it to mobile applications using PhoneGap."
 feature_row4:
-  - image_path: assets/images/machine-learning.png
+  - image_path: /assets/images/machine-learning.png
     alt: "coursera machine learning"
     title: "Apr: Machine Learning"
     excerpt: "Attended 'Machine Learning' classes at Coursera taught by Andrew Ng, a professor at Stanford University and a leading professional in deep learning. It is an online version of the Stanford lecture, which has been well-known for its best description of machine learning."
@@ -61,6 +61,13 @@ feature_row8:
     alt: "stock price"
     title: "Sep~Nov: Worked on Predicting Stock Price with Deep Learning"
     excerpt: "Tried predicting stock prices. While doing this project, used data preprocessing, DNN, RNN, regularization, and machine learning workflows that I've learned previously. Tried classification and regression. Used tensorflow and Keras for framework."
+intro3:
+  - title: '2019'
+feature_row9:
+  - image_path: /assets/images/kaggle.png
+    alt: 'kaggle'
+    title: 'Jan~: Working on Kaggle Competitions'
+    excerpt: 'Kaggle is a well-known community website for data scientists to compete in machine learning challenges. Started participating at Kaggle competitions. Learning many techniques from kaggle community.'
 ---
 
 {% include feature_row id="intro1" type="center" %}
@@ -73,3 +80,5 @@ feature_row8:
 {% include feature_row id="feature_row6" type="right" %}
 {% include feature_row id="feature_row7" type="left" %}
 {% include feature_row id="feature_row8" type="right" %}
+{% include feature_row id="intro3" type="center" %}
+{% include feature_row id="feature_row9" type="left" %}
