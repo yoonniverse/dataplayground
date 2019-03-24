@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Contents"
+    url: /contents
+  - title: "All Posts"
+    url: /archive
+  - title: "Bio"
+    url: /bio
+  - title: "Categories"
+    url: /categories

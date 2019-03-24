@@ -1,0 +1,10 @@
+---
+layout: archive
+author_profile: true
+---
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].all_posts | default: "All Posts" }}<small> / {{ site.posts.size }}</small> </h3>
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
