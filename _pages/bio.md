@@ -13,7 +13,7 @@ intro1:
 feature_row1:
   - image_path: /assets/images/python.png
     alt: "python"
-    title: "Sep~Dec: My first encounter to programming."
+    title: "Sep~Dec: My First Encounter to Programming."
     excerpt: "First encountered programming in a university lecture. Learned the basics of Python and used it to solve problems."
 intro2:
   - title: '2018'
@@ -82,3 +82,6 @@ feature_row9:
 {% include feature_row id="feature_row8" type="right" %}
 {% include feature_row id="intro3" type="center" %}
 {% include feature_row id="feature_row9" type="left" %}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTYwMzA5NTQ3XX0=
+-->
