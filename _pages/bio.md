@@ -68,6 +68,9 @@ feature_row9:
     alt: 'kaggle'
     title: 'Jan~: Working on Kaggle Competitions'
     excerpt: 'Kaggle is a well-known community website for data scientists to compete in machine learning challenges. Started participating at Kaggle competitions. Learning many techniques from kaggle community.'
+    url: "https://www.kaggle.com/harangdev"
+    btn_label: "Kaggle Profile"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro1" type="center" %}
@@ -83,5 +86,5 @@ feature_row9:
 {% include feature_row id="intro3" type="center" %}
 {% include feature_row id="feature_row9" type="left" %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwMzA5NTQ3XX0=
+eyJoaXN0b3J5IjpbMTU5NjkyNjU4MV19
 -->
