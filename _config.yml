@@ -19,7 +19,7 @@ locale                   : "en"
 title                    : "Data PlayGround"
 title_separator          : "-"
 name                     : "Harang"
-description              : "A Korean Economics college student's playground for data science"
+description              : "My playground for data science"
 url                      : "https://harangdev.github.io"
 baseurl                  : ""
 repository               : "HarangDev/harangdev.github.io"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Harang"
   avatar           : "/assets/images/profile.png"
-  bio              : "I'm a Korean student who majors Economics at college, and who is interested in data science and machine learning. If something's wrong with my post, please leave comment."
+  bio              : "I'm a student who majors Economics at Seoul National University and who is interested in machine learning. If something's wrong with my post, please leave comment."
   location         : "Seoul, Korea"
   email            :
   uri              :
