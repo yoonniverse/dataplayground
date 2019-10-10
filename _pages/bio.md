@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/header5.jpg
   caption: "[Photo by Joel Filipe on Unsplash](https://unsplash.com/photos/VuwAfoHpxgs)"
-excerpt: "I'm majoring Economics at Seoul National University in Korea and interested in data science and machine learning."
+excerpt: "I'm majoring Economics at Seoul National University and interested in machine learning."
 intro1:
   - title: '2017'
 feature_row1:
