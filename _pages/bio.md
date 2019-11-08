@@ -71,6 +71,14 @@ feature_row9:
     url: "https://www.kaggle.com/harangdev"
     btn_label: "Kaggle Profile"
     btn_class: "btn--primary"
+feature_row10:
+  - image_path: /assets/images/papers.jpg
+    alt: 'papers'
+    title: 'Sep~: Summarizing Papers'
+    excerpt: 'Started to read some papers that I come to face when solving Kaggle problems. Summarizing them to get a better understanding of the content.'
+    url: "https://harangdev.github.io/categories/#papers"
+    btn_label: "View Summaries"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro1" type="center" %}
@@ -85,6 +93,4 @@ feature_row9:
 {% include feature_row id="feature_row8" type="right" %}
 {% include feature_row id="intro3" type="center" %}
 {% include feature_row id="feature_row9" type="left" %}
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMzYxMTldfQ==
--->
+{% include feature_row id="feature_row10" type="right" %}
