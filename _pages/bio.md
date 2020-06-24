@@ -36,7 +36,7 @@ feature_row4:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: http://datameetsmedia.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-01-at-1.33.45-PM.png
+  - image_path: /assets/images/deep-learning.png
     alt: "coursera deeplearning certificate"
     title: "May: Deep Learning"
     excerpt: "Attended 'Deep Learning' Specialization course taught by professor Andrew Ng at Coursera. Learned basic Neural Networks, Convolutional Neural Networks, Sequence Models, and practical skills."
