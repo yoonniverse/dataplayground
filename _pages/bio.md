@@ -1,5 +1,5 @@
 ---
-title: "Abount"
+title: "Bio"
 layout: splash
 permalink: /about/
 header:
