@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en"
 title                    : "Data PlayGround"
 title_separator          : "-"
-name                     : "Harang"
+name                     : "YoonSoo"
 description              : "My playground for data science"
-url                      : "https://harangdev.github.io"
+url                      : "https://yoonsoo-ds.github.io"
 baseurl                  : ""
-repository               : "HarangDev/harangdev.github.io"
+repository               : "yoonsoo-ds/yoonsoo-ds.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 100
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Harang"
+  name             : "YoonSoo"
   avatar           : "/assets/images/profile.png"
   bio              : "Majoring Economics at Seoul National University / AI Enthusiast"
   location         : "Seoul, Korea"
