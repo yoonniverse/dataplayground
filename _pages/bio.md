@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/header5.jpg
   caption: "[Photo by Joel Filipe on Unsplash](https://unsplash.com/photos/VuwAfoHpxgs)"
-excerpt: "I'm majoring Economics at Seoul National University and interested in machine learning."
+excerpt: "I'm majoring Economics at Seoul National University and interested in AI."
 intro1:
   - title: '2017'
 feature_row1:
@@ -31,7 +31,7 @@ feature_row4:
   - image_path: /assets/images/machine-learning.png
     alt: "coursera machine learning"
     title: "Apr: Machine Learning"
-    excerpt: "Attended 'Machine Learning' classes at Coursera taught by Andrew Ng, a professor at Stanford University and a leading professional in deep learning. It is an online version of the Stanford lecture, which has been well-known for its best description of machine learning."
+    excerpt: "Attended 'Machine Learning' classes at Coursera taught by professor Andrew Ng of Stanford University. It is an online version of the Stanford lecture, which has been well-known for its best description of machine learning."
     url: "https://www.coursera.org/learn/machine-learning"
     btn_label: "Learn More"
     btn_class: "btn--primary"
