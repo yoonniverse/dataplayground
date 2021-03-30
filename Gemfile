@@ -13,9 +13,9 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
-gem "jekyll", "~> 3.5"
-gem "minimal-mistakes-jekyll"
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+# gem "jekyll", "~> 3.5"
+# gem "minimal-mistakes-jekyll"
+# gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
