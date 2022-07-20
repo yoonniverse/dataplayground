@@ -10,43 +10,43 @@ header:
 excerpt: "Here, you can look into my summarization of what I've learned about Data Science."
 ---
 
-# Machine Learning  <small><a href='https://www.coursera.org/learn/machine-learning' target='_blank'>coursera</a></small>
+# Machine Learning <small><a href='https://www.coursera.org/learnmachine-learning' target='_blank'>coursera</a></small>
 
-### 1. [Supervised and Unsupervised Learning](/machine-learning/1/)
+### 1. [Supervised and Unsupervised Learning](machine-learning/1/)
 
-### 2. [Univariate Linear Regression](/machine-learning/2/)
+### 2. [Univariate Linear Regression](machine-learning/2/)
 
-### 3. [Multivariate Linear Regression](/machine-learning/3/)
+### 3. [Multivariate Linear Regression](machine-learning/3/)
 
-### 4. [Feature Normalization](/machine-learning/4/)
+### 4. [Feature Normalization](machine-learning/4/)
 
-### 5. [Polynomial Regression](/machine-learning/5/)
+### 5. [Polynomial Regression](machine-learning/5/)
 
-### 6. [Normal Equation in Linear Regression](/machine-learning/6/)
+### 6. [Normal Equation in Linear Regression](machine-learning/6/)
 
-### 7. [Logistic Regression](/machine-learning/7/)
+### 7. [Logistic Regression](machine-learning/7/)
 
-### 8. [Overfitting, Underfitting, and Regularization](/machine-learning/8/)
+### 8. [Overfitting, Underfitting, and Regularization](machine-learning/8/)
 
-### 9. [Regularized Linear Regression and Logistic Regression Cheatsheet](/machine-learning/9/)
+### 9. [Regularized Linear Regression and Logistic Regression Cheatsheet](machine-learning/9/)
 
-### 10. [Neural Networks](/machine-learning/10/)
+### 10. [Neural Networks](machine-learning/10/)
 
-### 11. [Model Selection and Bias(Underfitting)/Variance(Overfitting)](/machine-learning/11/)
+### 11. [Model Selection and Bias(Underfitting)/Variance(Overfitting)](machine-learning/11/)
 
-### 12. [Evaluation Metrics for Machine Learning Models](/machine-learning/12/)
+### 12. [Evaluation Metrics for Machine Learning Models](machine-learning/12/)
 
-### 13. [Support Vector Machine (SVM) and Kernels](/machine-learning/13/)
+### 13. [Support Vector Machine (SVM) and Kernels](machine-learning/13/)
 
-### 14. [Clustering and K-Means Algorithm](/machine-learning/14/)
+### 14. [Clustering and K-Means Algorithm](machine-learning/14/)
 
-### 15. [Dimensionality Reduction and Principle Component Analysis (PCA)](/machine-learning/15/)
+### 15. [Dimensionality Reduction and Principle Component Analysis (PCA)](machine-learning/15/)
 
-### 16. [Anomaly Detection and Gaussian Distribution](/machine-learning/16/)
+### 16. [Anomaly Detection and Gaussian Distribution](machine-learning/16/)
 
-### 17. [Recommender System - Collaborative Filtering](/machine-learning/17/)
+### 17. [Recommender System - Collaborative Filtering](machine-learning/17/)
 
-### 18. [Stochastic Gradient Descent and Mini-Batch Gradient Descent](/machine-learning/18/)
+### 18. [Stochastic Gradient Descent and Mini-Batch Gradient Descent](machine-learning/18/)
 
 # Deep Learning <small><a href='https://www.coursera.org/specializations/deep-learning' target='_blank'>coursera</a></small>
 
