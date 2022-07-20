@@ -9,14 +9,14 @@ header:
   caption: "[Photo by Joel Filipe on Unsplash](https://unsplash.com/photos/VuwAfoHpxgs)"
 excerpt: "I'm majoring Economics at Seoul National University and interested in AI."
 intro1:
-  - title: '2017'
+  - title: "2017"
 feature_row1:
   - image_path: /assets/images/python.png
     alt: "python"
     title: "Sep~Dec: My First Encounter to Programming"
     excerpt: "First encountered programming in a university lecture. Learned the basics of Python and used it to solve problems."
 intro2:
-  - title: '2018'
+  - title: "2018"
 feature_row2:
   - image_path: /assets/images/laravel.png
     alt: "laravel"
@@ -62,21 +62,21 @@ feature_row8:
     title: "Sep~Nov: Worked on Predicting Stock Price with Deep Learning"
     excerpt: "Tried predicting stock prices. While doing this project, used data preprocessing, DNN, RNN, regularization, and machine learning workflows that I've learned previously. Tried classification and regression. Used tensorflow and Keras for framework."
 intro3:
-  - title: '2019'
+  - title: "2019"
 feature_row9:
   - image_path: /assets/images/kaggle.png
-    alt: 'kaggle'
-    title: 'Jan~: Working on Kaggle Competitions'
-    excerpt: 'Kaggle is a well-known community website for data scientists to compete in machine learning challenges. Started participating at Kaggle competitions. Learning many techniques from kaggle community.'
+    alt: "kaggle"
+    title: "Jan~: Working on Kaggle Competitions"
+    excerpt: "Kaggle is a well-known community website for data scientists to compete in machine learning challenges. Started participating at Kaggle competitions. Learning many techniques from kaggle community."
     url: "https://www.kaggle.com/harangdev"
     btn_label: "Kaggle Profile"
     btn_class: "btn--primary"
 feature_row10:
   - image_path: /assets/images/papers.jpg
-    alt: 'papers'
-    title: 'Sep~: Summarizing Papers'
-    excerpt: 'Started to read some papers that I come to face when solving Kaggle problems. Summarizing them to get a better understanding of the content.'
-    url: "https://harangdev.github.io/categories/#papers"
+    alt: "papers"
+    title: "Sep~: Summarizing Papers"
+    excerpt: "Started to read some papers that I come to face when solving Kaggle problems. Summarizing them to get a better understanding of the content."
+    url: "https://yoonniverse.github.io/dataplayground/categories/#papers"
     btn_label: "View Summaries"
     btn_class: "btn--primary"
 ---
