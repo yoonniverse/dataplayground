@@ -81,6 +81,8 @@ feature_row10:
     btn_class: "btn--primary"
 ---
 
+Moved to [New Website made by myself](https://portfoly-yoonniverse.vercel.app/user/62d53db4ca5fd788ffaa8727/yoonsoo-kim)
+
 {% include feature_row id="intro1" type="center" %}
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="intro2" type="center" %}
